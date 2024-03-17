@@ -1,0 +1,246 @@
+body {
+    margin: 0%;
+    background-color: rgba(0, 255, 255, 0.251);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+td {
+    background-color: #a08c8c;
+}
+
+#feed {
+    font-size: xx-large;
+}
+
+#formfeedback {
+    background-color: rgb(255, 0, 225);
+    width: 300px;
+    height: 320px;
+    border-radius: 10px;
+    padding: 20px;
+    position: relative;
+    top: 1000px;
+    left: 500px;
+}
+
+#Header {
+    position: relative;
+    background-color: black;
+    padding: 7px;
+    top: 8px;
+    left: 8px;
+    width: 1504px;
+}
+
+a {
+    position: relative;
+    font-family: sans-serif;
+    font-variant: small-caps ;
+    color: white;
+    text-decoration: none;
+    top: -20px;
+}
+
+#bg1 {
+    position: relative;
+    left: -8px;
+    top: -8px;
+    margin-right: 0%;
+    background-image: url(BesG8rz.png);
+    background-repeat: no-repeat;
+    height: 650px;
+    width: 1506px;
+    background-size: cover;
+}
+
+#content {
+    position: relative;
+    color: black;
+    top: 950px;
+}
+
+ul {
+    line-height: 30px;
+}
+
+#center {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 72px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+center {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+    letter-spacing: 1.5px;
+}
+
+#mh {
+    position: relative;
+    top: 35px;
+    left: 25px;
+}
+
+#r:link {
+    color: white;
+    text-decoration: none;
+}
+
+#r:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#r:active {
+    color: white;
+    text-decoration: none;
+}
+
+#sc:link {
+    color: white;
+    text-decoration: none;
+}
+
+#sc:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#sc:active {
+    color: white;
+    text-decoration: none;
+}
+
+#c:link {
+    color: white;
+    text-decoration: none;
+}
+
+#c:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#c:active {
+    color: white;
+    text-decoration: none;
+}
+
+#e:link {
+    color: white;
+    text-decoration: none;
+}
+
+#e:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#e:active {
+    color: white;
+    text-decoration: none;
+}
+
+#a:link {
+    color: white;
+    text-decoration: none;
+}
+
+#a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#a:active {
+    color: white;
+    text-decoration: none;
+}
+
+#co:link {
+    color: white;
+    text-decoration: none;
+}
+
+#co:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#co:active {
+    color: white;
+    text-decoration: none;
+}
+
+#i:link {
+    color: white;
+    text-decoration: none;
+}
+
+#i:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#i:active {
+    color: white;
+    text-decoration: none;
+}
+
+#s:link {
+    color: white;
+    text-decoration: none;
+}
+
+#s:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#s:active {
+    color: white;
+    text-decoration: none;
+}
+
+#cn:link {
+    color: white;
+    text-decoration: none;
+}
+
+#cn:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#cn:active {
+    color: white;
+    text-decoration: none;
+}
+
+#f:link {
+    color: white;
+    text-decoration: none;
+}
+
+#f:visited {
+    color: white;
+    text-decoration: none;
+}
+
+#f:active {
+    color: white;
+    text-decoration: none;
+}
